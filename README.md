@@ -1,8 +1,13 @@
 # IPT-Semester-project
 Internet programming technique , semester project , Blood Bank App using MEAN stack
 
+Project Group Member:
 
-Firstly Clone tha project
+Abdul Wahab EP-1550002 (FrontEnd Developer)
+
+Mohammad Khalid EP-1550024 (BackEnd Developer)
+
+Firstly Clone the project
 
 # To run Blood Bank App Server
   go to the blood bank app server
